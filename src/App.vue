@@ -527,7 +527,7 @@ const landingProjects = [
 ];
 
 const systemProjects = [
-  { name: "SGI Dashboard", url: "https://pluscode-gold.vercel.app/#login" }, // Cambiar por la URL real de tu SGI
+  { name: "SGI Dashboard", url: "https://pluscode-gilt.vercel.app/#dashboard" }, // Cambiar por la URL real de tu SGI
   { name: "E-Commerce Gaming", url: "https://aggressors.vercel.app" } // Cambiar por la URL real de tu E-commerce
 ];
 
