@@ -519,6 +519,7 @@ import sgi4 from './assets/sgi4.png';
 gsap.registerPlugin(ScrollTrigger);
 
 const landingProjects = [
+  { name: "Nasdank", url: "https://www.nasdank.xyz" },
   { name: "NOUS Girl", url: "https://nousgirl.xyz" },
   { name: "Ferris", url: "https://www.ferrisrustacean.xyz" },
   { name: "This is fine", url: "https://thisisfine.site" },
@@ -528,7 +529,8 @@ const landingProjects = [
 
 const systemProjects = [
   { name: "SGI Dashboard", url: "https://pluscode-gilt.vercel.app/#dashboard" }, // Cambiar por la URL real de tu SGI
-  { name: "E-Commerce Gaming", url: "https://aggressors.vercel.app" } // Cambiar por la URL real de tu E-commerce
+  { name: "E-Commerce Gaming", url: "https://aggressors.vercel.app" }, // Cambiar por la URL real de tu E-commerce
+  { name: "Sistema de streaming", url: "https://nostflix.vercel.app" }
 ];
 
 const sgiImages = [
